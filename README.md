@@ -1,2 +1,2 @@
 # zepto_inventory_analysis
-Analysis done through sql (POSTGRE)
+Analysis done through sql (POSTGRE SQL)
